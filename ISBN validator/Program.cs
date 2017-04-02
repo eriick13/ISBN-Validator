@@ -17,11 +17,6 @@ namespace ISBN_validator
             Console.WriteLine();
             Console.ResetColor();
             bool b = true;
-
-
-
-
-
             while (b) // cyklus ktery zajistuje opakovani programu dokud ho uzivatel enterem neukonci
             {
                 try // osetreni vyjimek, ohlaseni chybneho zadani uzivateli
